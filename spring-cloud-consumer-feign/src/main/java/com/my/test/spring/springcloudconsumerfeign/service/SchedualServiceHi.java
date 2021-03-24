@@ -1,5 +1,6 @@
 package com.my.test.spring.springcloudconsumerfeign.service;
 
+import com.my.test.spring.springcloudconsumerfeign.config.FeignRequestConfiguration;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
